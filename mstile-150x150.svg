@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg version="1.2" baseProfile="tiny-ps" viewBox="0 0 270 270" xmlns="http://www.w3.org/2000/svg">
 <title>Tristan</title>
-<circle cx="135" cy="135" r="135" fill="#000000"/>
-<g transform="translate(0 25)">
+<circle cx="135" cy="135" r="136" fill="#000000"/>
+<g transform="translate(-189 -129) scale(2.4)">
 <g fill="#ff98d7" transform="matrix(.1 0 0 -.1 0 270)"><path d="M720 1570V940h1260v1260H720v-630z"/></g>
 <g fill="#e063b0" transform="matrix(.1 0 0 -.1 0 270)"><path d="M720 1570V940h1260v1260H720v-630zm800 390v-50h-120v-740h-100v739l-62 3-63 3-3 33c-2 19-1 40 2 48l5 14h341v-50z"/></g>
 <g fill="#8b0554" transform="matrix(.1 0 0 -.1 0 270)"><path d="M720 1570V940h1260v1260H720v-630zm810 390v-50h-120v-740h-120l-2 368-3 367-57 3-58 3v99h360v-50z"/></g>
