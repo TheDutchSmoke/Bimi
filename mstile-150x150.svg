@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" 
-     version="1.2" 
      baseProfile="tiny" 
+     version="1.2" 
      viewBox="0 0 270 270">
 <title>Tristan Logo</title>
 <path d="M0 0 C41.58 0 83.16 0 126 0 C126 41.58 126 83.16 126 126 C84.42 126 42.84 126 0 126 C0 84.42 0 42.84 0 0 Z " fill="#0E0008" transform="translate(72,50)"/>
